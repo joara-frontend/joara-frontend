@@ -1,7 +1,7 @@
 # 조아라 (Jo Ara)
 
 * 💻 I am a **Frontend Engineer** who cares about Scalable UI & User Experience.
-* 🎨 Based on **5 years** of professional experience as a **Web Publisher**.
+* 🎨 This was written based on **approximately 6 years** of practical experience as a  **web publisher**.
 * ⚛️ I enjoy developing with **React, Next.js and TypeScript**.
 * 📚 Keeping records of my learning at **[Tech Archive](https://www.notion.so/Tech-Archive-3451833f6e7f80afaa73c8b086ddfa26)**.
 * 🚀 Focusing on **Performance Optimization** & **Design Systems**.
