@@ -3,7 +3,7 @@
 * 💻 I am a **Frontend Engineer** who cares about Scalable UI & User Experience.
 * 🎨 Built on **approximately 6 years** of hands-on experience as a **web publisher.**
 * ⚛️ I enjoy developing with **React, Next.js and TypeScript**.
-* 📚 Keeping records of my learning at **[Tech Archive](https://www.notion.so/Tech-Archive-3451833f6e7f80afaa73c8b086ddfa26)**.
+* 📚 Keeping records of my learning at **[Dev Log](https://indigo-sandwich-224.notion.site/ARA-s-Dev-Log-2871833f6e7f82c4a244818fa1aa3a24)**.
 * 🚀 Focusing on **Performance Optimization** & **Design Systems**.
 
 
